@@ -1,7 +1,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>4.15 부정선거 게이트 on 4.15 부정선거 게이트</title>
-		<link>http://example.org/</link>
+		<link>https://false-election.github.io/</link>
 		<description>Recent content in 4.15 부정선거 게이트 on 4.15 부정선거 게이트</description>
 		<generator>Hugo -- gohugo.io</generator>
 		
@@ -9,7 +9,7 @@
 		
 		<managingEditor>Page(&#34;4.15 부정선거 게이트&#34;)</managingEditor>
     	
-		<atom:link href="http://example.org/" rel="self" type="application/rss+xml" />
+		<atom:link href="https://false-election.github.io/" rel="self" type="application/rss+xml" />
 		
 	</channel>
 </rss>
