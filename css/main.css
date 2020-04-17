@@ -229,6 +229,10 @@ div.panel-body {
   margin-top: 10px;
 }
 
+.post-entry img {
+    width: 100%;
+}
+
 .post-read-more {
   font-family: 'Roboto', Helvetica, sans-serif;
   font-weight: 800;
